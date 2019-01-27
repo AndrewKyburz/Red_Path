@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3912cbac-a6bb-4472-9e84-44400ed59390" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Adventurer_Red_Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Scripts/Adventurer_Red_Path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Enemy1_Red_Path_IMG.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Images/Enemy1_Red_Path_IMG.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Enemy2_Red_Path_IMG.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Images/Enemy2_Red_Path_IMG.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Enemy_Red_Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Scripts/Enemy_Red_Path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Fire_Ball_Red_Path_IMG.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Images/Fire_Ball_Red_Path_IMG.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/GameCharacter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Scripts/GameCharacter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Hero_Red_Path_IMG.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Images/Hero_Red_Path_IMG.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Hero_Red_Path_IMG_v2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Images/Hero_Red_Path_IMG_v2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Main_Red_Path.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Scripts/Main_Red_Path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project Space/Red_Path_Logo_IMG.png" beforeDir="false" afterPath="$PROJECT_DIR$/Project Space/Images/Red_Path_Logo_IMG.png" afterDir="false" />
-    </list>
+    <list default="true" id="3912cbac-a6bb-4472-9e84-44400ed59390" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,12 +168,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16126901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16126901" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
