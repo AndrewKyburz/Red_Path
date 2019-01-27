@@ -1,4 +1,6 @@
 import pygame
+import sys
+import os
 # import Adventurer_Red_Path
 # import Enemy_Red_Path
 
@@ -6,6 +8,7 @@ import pygame
 # Initializes pygame module
 
 pygame.init()
+script_dir = sys.path[0]
 
 # __________________________________________________________________
 # Universal Constants
@@ -13,8 +16,8 @@ pygame.init()
 window_width = 1000
 window_height = 600
 
-adventurer_IMG = pygame.image.load('Hero_Red_Path_IMG.png')
-red_path_IMG = pygame.image.load('Red_Path_Logo_IMG.png')
+adventurer_IMG = pygame.image.load(os.path.join(script_dir, '../Images/Hero_Red_Path_IMG_v2.png'))
+red_path_IMG = pygame.image.load(os.path.join(script_dir, '../Images/Red_Path_Logo_IMG.png'))
 
 black = (0, 0, 0)
 white = (0, 0, 0)
